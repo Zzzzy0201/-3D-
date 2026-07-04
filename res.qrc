@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>map4.jpg</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>named_features.csv</file>
+        <file>buildings.txt</file>
+        <file>road_network.txt</file>
+        <file>gates.csv</file>
+        <file>canteen_info.txt</file>
+        <file>building_footprints.txt</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
