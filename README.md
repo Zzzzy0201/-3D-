@@ -50,7 +50,7 @@
 ### 编译与运行
 1. 克隆本仓库：
    ```bash
-   git clone
+   git clone https://github.com/Zzzzy0201/-3D-.git
 2. 用Qt Creator打开pku3D-navigation.pro
 3. 配置Kit（选择Qt 6.x编译器）
 4. 点击运行
